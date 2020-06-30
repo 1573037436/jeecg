@@ -1,6 +1,3 @@
-
-![JEECG](https://static.oschina.net/uploads/img/201905/24184932_ak9D.png "Jeecg快速开发平台")
-
 JEECG 微云快速开发平台
 =======================
 采用SpringMVC + Hibernate + Minidao(类Mybatis) + Easyui(UI库)+ Jquery + Boostrap + Ehcache + Redis + Ztree + Vue + Boostrap-table + ElementUI等基础架构</br>
