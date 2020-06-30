@@ -114,7 +114,6 @@ JEECG 功能特点
 * 	官方博客： [http://blog.csdn.net/zhangdaiscott](http://blog.csdn.net/zhangdaiscott)
 * 	关注官方微信公众号，获取更多资讯
 
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09172938_ltsb.jpg "在这里输入图片标题")
 
 
 社区荣誉
@@ -147,70 +146,6 @@ JEECG 功能特点
 * ★2018年JEEWX推出大数据版本集团版，微信管家系统（支持多触点：微信、小程序、企业微信、QQ公众号、支付窗）支持同时维护多公众号和集团模式公众号运营；支持高并发大数据程序。
 * ★2018年JEEWX推出在线免费活动平台、H5活动之家。
 * ★2019年jeecg打造全新开发平台，jeecg_boot(springboot+antd+vue 前后端分离最新架构)
-
-系统演示
------------------------------------
-###  [1].多套首页风格，支持自定义（H+风格|FineUI风格|ACE风格|Shortcut风格/云桌面等）
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09163742_IbMJ.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09164411_zSuo.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09164423_JfhR.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09164434_NSLt.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09164152_hxHU.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09164204_uVWu.jpg "在这里输入图片标题")
-
-###  [2].表单设计能力（online表单开发、表单设计器、word布局、积木表单）
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09164800_npNS.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09164811_4UmX.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09164822_SE7Z.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09165024_90bw.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09165445_QkbR.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09165756_D2m3.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09165958_syDn.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201804/19165540_CizC.jpg "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09170233_i84Q.png "在这里输入图片标题")
-
-###  [3].流程组件演示
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09171414_X1ee.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09171521_bghO.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09171532_NoB0.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09171539_gh87.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09171656_QTea.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09171705_CTug.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09171845_83W0.png "在这里输入图片标题")
-
-###  [4].报表演示（在线配置报表）
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09170858_40eu.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09170906_l8g0.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09170916_KkLG.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09170924_hDPz.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09170932_HABN.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09170941_McYh.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09171047_38JE.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201807/09170949_FWks.png "在这里输入图片标题")
-
-###  [5].移动报表演示
-![输入图片说明](https://static.oschina.net/uploads/img/201804/19165909_OXfn.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201804/19165929_OnoB.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201804/19165943_eyQF.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201804/19165955_tJkX.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201804/19170011_9CWF.png "在这里输入图片标题")
-
-
-###  [6].移动OA演示
-![输入图片说明](https://static.oschina.net/uploads/img/201804/19173027_byRC.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201804/19173036_C5Kv.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201804/19170252_9gZf.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201804/19170305_ud5Y.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201804/19170337_0myK.png "在这里输入图片标题")
-
-###  [6].移动APP
-![输入图片说明](https://static.oschina.net/uploads/img/201804/19170420_v4qK.jpg "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201804/19170430_kqK2.jpg "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201804/19170449_W72k.jpg "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201804/19170458_qIv2.jpg "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201804/19170508_q2XJ.jpg "在这里输入图片标题")
-
-
 代码示例
 -----------------------------------
     这是一个有多行的文本框  
