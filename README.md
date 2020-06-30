@@ -2,7 +2,8 @@
 ![JEECG](https://static.oschina.net/uploads/img/201905/24184932_ak9D.png "Jeecg快速开发平台")
 
 JEECG 微云快速开发平台
-===============
+=======================
+采用SpringMVC + Hibernate + Minidao(类Mybatis) + Easyui(UI库)+ Jquery + Boostrap + Ehcache + Redis + Ztree + Vue + Boostrap-table + ElementUI等基础架构</br>
 
 当前最新版本： 3.8（发布日期：20181024）
 
@@ -51,7 +52,6 @@ JEECG快速开发平台，可以应用在任何J2EE项目的开发中，尤其�
 
 JEECG 功能特点
 -----------------------------------
-* 	采用SpringMVC + Hibernate + Minidao(类Mybatis) + Easyui(UI库)+ Jquery + Boostrap + Ehcache + Redis + Ztree + Vue + Boostrap-table + ElementUI等基础架构</br>
 * 	采用面向声明的开发模式， 基于泛型编写极少代码即可实现复杂的数据展示、数据编辑、表单处理等功能，再配合Online Coding在线开发与代码生成器的使用,将J2EE的开发效率提高8倍以上，可以将代码减少90%以上。</br>
 
 * 	JEECG 技术点总结:
